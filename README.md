@@ -34,6 +34,7 @@
 1. [Vue源码解读](https://github.com/answershuto/learnVue)
 2. [React学习之道](https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese)
 3. [React开发者技能图谱](https://github.com/adam-golab/react-developer-roadmap)
+4. [React/Redux StyleGuide](https://github.com/iraycd/React-Redux-Styleguide)
 ### 后端框架
 1. [手把手教你整合SSM框架](https://github.com/liyifeng1994/ssm)
 ## 架构设计
