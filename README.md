@@ -1,4 +1,4 @@
-# 阅读列表
+p# 阅读列表
 ## 语言学习
 ### Go
 1. [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers)
@@ -11,6 +11,8 @@
 5. [Node.js区块链开发](https://github.com/imfly/bitcoin-on-nodejs)
 6. [Node.js全站开发从0到1](https://github.com/jollen/nodejs-fullstack-book)
 7. [Node.js核心思想与源码分析](https://github.com/yjhjstz/deep-into-node)
+### Python
+1. [learn python3](https://github.com/jerry-git/learn-python3)
 ### CSS
 1. [你应该知道的CSS奇淫巧技](https://github.com/chokcoco/iCSS)
 2. [You need to know css](https://github.com/l-hammer/You-need-to-know-css)
