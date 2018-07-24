@@ -1,4 +1,4 @@
-p# 阅读列表
+# 阅读列表
 ## 语言学习
 ### Go
 1. [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers)
