@@ -28,6 +28,7 @@
 5. [前端: 冴语写博客的地方](https://github.com/mqyqingfeng/Blog)
 6. [第一本PWA中文书](https://github.com/SangKa/PWA-Book-CN)
 7. [Javascript装饰器学习](https://github.com/wycats/javascript-decorators)
+8. [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 ## 算法学习
 1. [Java实现基础算法](https://github.com/TheAlgorithms/Java)
 2. [Javascript实现基础算法](https://github.com/trekhleb/javascript-algorithms)
