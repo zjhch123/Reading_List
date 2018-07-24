@@ -35,6 +35,7 @@
 2. [React学习之道](https://github.com/the-road-to-learn-react/the-road-to-learn-react-chinese)
 3. [React开发者技能图谱](https://github.com/adam-golab/react-developer-roadmap)
 4. [React/Redux StyleGuide](https://github.com/iraycd/React-Redux-Styleguide)
+5. [Webpack 中的 sideEffects 到底该怎么用？](https://github.com/kuitos/kuitos.github.io/issues/41)
 ### 后端框架
 1. [手把手教你整合SSM框架](https://github.com/liyifeng1994/ssm)
 ## 架构设计
