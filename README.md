@@ -52,6 +52,7 @@
 1. [机器学习实战](https://github.com/apachecn/MachineLearning)
 2. [机器学习相关教程](https://github.com/MorvanZhou/tutorials)
 3. [深度学习中文翻译](https://github.com/exacity/deeplearningbook-chinese)
+4. [100-days-of-ML-code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 ## 其他
 1. [区块链技术开发资料](https://github.com/chaozh/awesome-blockchain-cn)
 2. [有点杂的技术随笔](https://github.com/ecmadao/Coding-Guide)
