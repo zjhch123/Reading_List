@@ -44,6 +44,7 @@
 6. [助你完全理解React高阶组件（Higher-Order Components）](https://github.com/brickspert/blog/issues/2)
 ### 后端框架
 1. [手把手教你整合SSM框架](https://github.com/liyifeng1994/ssm)
+2. [Spring Boot Example](https://github.com/JeffLi1993/springboot-learning-example)
 ## 架构设计
 1. [系统设计入门](https://github.com/donnemartin/system-design-primer)
 2. [HTTP API设计指南](https://github.com/ZhangBohan/http-api-design-ZH_CN)
