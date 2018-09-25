@@ -37,6 +37,7 @@
 ## 算法学习
 1. [Java实现基础算法](https://github.com/TheAlgorithms/Java)
 2. [Javascript实现基础算法](https://github.com/trekhleb/javascript-algorithms)
+3. [Python实现基础算法](https://github.com/TheAlgorithms/Python)
 ## 框架学习
 ### 前端框架
 1. [Vue源码解读](https://github.com/answershuto/learnVue)
@@ -62,4 +63,5 @@
 ## 其他
 1. [区块链技术开发资料](https://github.com/chaozh/awesome-blockchain-cn)
 2. [有点杂的技术随笔](https://github.com/ecmadao/Coding-Guide)
+3. [操作系统学习](https://github.com/cfenollosa/os-tutorial)
     
