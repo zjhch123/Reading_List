@@ -3,7 +3,8 @@
 ### Go
 1. [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers)
 2. [Go语言入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)
-3. [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
+3. [Go语言圣经](https://github.com/golang-china/gopl-zh)
+4. [Go语言高级编程](https://github.com/chai2010/advanced-go-programming-book)
 ### Node.js
 1. [一起学Node.js](https://github.com/nswbmw/N-blog)
 2. [《Node.js包教不包会》](https://github.com/alsotang/node-lessons)
